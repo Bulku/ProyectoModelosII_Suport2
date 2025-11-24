@@ -1,8 +1,8 @@
 # SUPPORT2 - Predicción de Supervivencia en Pacientes Críticos
 
 ## Autores
-- Miguel Angel Puerta Vasquez - ID: 1000760164
-- Leon Mateo Velez Gonzáles - ID: 1216728793
+- Miguel Angel Puerta Vasquez - CC: 1000760164
+- Leon Mateo Velez Gonzáles - CC: 1216728793
 - Universidad de Antioquia - Modelos y Simulación II
 - Profesor: Julian David Arias Londono
 
