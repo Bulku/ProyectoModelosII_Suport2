@@ -16,7 +16,7 @@ Enlace: https://colab.research.google.com/drive/1Zs2acsEpPw8v8xSYtCybNXCcz86Zrg_
 Ejecuta todo el código directamente en tu navegador sin necesidad de instalaciones locales.
 
 ### Video Explicativo
-Enlace: https://youtube.com/
+Enlace: [https://youtube.com/](https://youtu.be/_3PrfnjLTCI)
 Video de 10 minutos con explicación completa del proyecto y demostración práctica.
 
 ---
